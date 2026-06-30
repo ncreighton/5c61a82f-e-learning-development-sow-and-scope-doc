@@ -1,2 +1,44 @@
-# 5c61a82f-e-learning-development-sow-and-scope-doc
-Fill-in-the-blank statements of work, project scopes, and deliverable checklists. Prevent scope creep with airtight project documentation.
+# E-Learning Development SOW and Scope Document Generator
+
+> Template for E Learning
+
+Every e learning professionals needs this — most just don't know it yet.
+
+Ready to use immediately — open, fill in your details, done. Fully editable: every field, color, and section customizable.
+
+## What's Included
+
+- E-Learning Development Sow And Scope Document Generator — fully configured and ready to use
+- Fully editable: all fields...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | ✅ | ✅ |
+| Standard layout | ✅ | ✅ |
+| Premium components | ❌ | ✅ |
+| Custom styling | ❌ | ✅ |
+| Support included | ❌ | ✅ |
+| Regular updates | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$19.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/eVqaEX7r13o8aNO5bud090J)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
